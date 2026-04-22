@@ -1,0 +1,13 @@
+name: maryia
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python
+  - pip
+  - ipython
+  - opencv
+  - matplotlib
+  - numpy
+variables:
+  OPENCV_SAMPLES_DATA_PATH: data

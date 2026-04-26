@@ -7,5 +7,7 @@ dependencies:
   - pip
   - opencv
   - numpy
+  - pip:
+      - mediapipe
 variables:
   OPENCV_SAMPLES_DATA_PATH: data
